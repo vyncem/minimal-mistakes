@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Experience the joys of classical Hatha Yoga with Nelly  | Nelly.yoga
+title: Experience the joys of classical Hatha Yoga with Nelly  
 desc: Learn a simple yet powerful set of 10 practices that activate the joints, muscles and energy system, bringing ease to the whole system.
 permalink: /upa_yoga
 ---
