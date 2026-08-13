@@ -4,6 +4,9 @@ main:
     url: /upa_yoga
   - title: "Hatha Yoga"
     url: /hatha-yoga-program/
+  - title: "Contact"
+    url: https://wa.me/+254118562896
+  # - title: "About"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
