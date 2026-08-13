@@ -65,7 +65,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : https://wa.me/+254118562896 # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)

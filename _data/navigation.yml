@@ -5,6 +5,7 @@ main:
   - title: "Hatha Yoga"
     url: /hatha-yoga-program/
   - title: "Contact"
+    target: _blank
     url: https://wa.me/+254118562896
   # - title: "About"
   # - title: "About"
