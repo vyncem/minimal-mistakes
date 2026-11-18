@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hatha Yoga Program
-subtitle: Yogasanas, Surya Kriya, Angamardana and Bhuta Shuddhi
+subtitle: Yogasanas, Surya Kriya and Angamardana
 permalink: /hatha-yoga-program/
 desc: Learn about Isha Hatha Yoga practices for energy, flexibility, strength and elemental balance.
 ---
@@ -48,19 +48,3 @@ Angamardana means gaining mastery over the limbs, organs and other parts of the 
 
 These practices are accessible to everyone and require no equipment, making them practical for daily life and travel.
 
-## Bhuta Shuddhi
-
-{% include video id="hc9g8u77g24" provider="youtube" %}
-
-Bhuta Shuddhi means purification of the elements. It is a process for harmonising the five elements within the human system: earth, water, wind, fire and space.
-
-- Keeps the system in harmony and balance
-- Prepares the system to handle powerful states of energy
-- Enhances the capability of body, mind and energy
-- Creates the basis for mastery over the human system
-
-This process is offered as an opportunity for anyone to benefit from an esoteric yogic science that supports overall wellbeing.
-
----
-
-For complete practice details and upcoming programs, refer to the official Isha Hatha Yoga materials.

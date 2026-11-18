@@ -18,6 +18,18 @@
   }
 }
 
+.layout--home .archive {
+  @include breakpoint($large) {
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-inline-end: 0;
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width});
+    padding-inline-end: 0;
+  }
+}
+
 .archive__item {
   position: relative;
 
